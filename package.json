@@ -9,7 +9,7 @@
   "dependencies": {
     "amfe-flexible": "^2.2.1",
     "async-validator": "^1.11.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "better-scroll": "^2.0.0-alpha.12",
     "core-js": "^2.6.5",
     "js-cookie": "^2.2.0",
